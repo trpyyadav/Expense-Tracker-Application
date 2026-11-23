@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Tracker – React Frontend
 
 React (Vite) frontend for the Spring Boot `expense-tracker` backend.
@@ -46,3 +47,6 @@ src/
 ## Production build
 `npm run build` creates `dist/`. Because the proxy only exists in the dev server, serving `dist/`
 separately requires either a reverse proxy for `/api` or a CORS configuration on the backend.
+=======
+# Expense-Tracker-Application
+>>>>>>> 5f8bb0325bb6ffbd1fd990b6784af0efeb3bbcd8
